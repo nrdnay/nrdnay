@@ -1,5 +1,5 @@
 ## Hi, I'm Nurdan.
-### 💫 About Me:
+### 💫 Me:
  I'm more interested in Data Science, Machine Learning and Python.
  
 #### ✍️ "Codes are a puzzle. A game, just like any other game."  Alan Turing
